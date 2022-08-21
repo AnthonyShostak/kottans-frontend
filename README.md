@@ -48,4 +48,37 @@
 </details>
 Нарешті отримав вичерпне пояснення, щодо усіх елементів в HTML. Здивувало наскільки сильно можна змінювати дизайн web-сторінки. Обов'язково буду використовувати position: relative для батьківских блоків та position: absolute - для дочірніх.
 
+## 4. Responsive Web Design
+
+Скріншоти:
+<details>
+<summary>FLEXBOX відео</summary>
+
+![FLEXBOX](https://user-images.githubusercontent.com/110051631/185796337-3da3c805-d652-44d5-97f8-4151166445c6.PNG)
+</details>
+
+<details>
+<summary>Froggy game</summary>
+
+![Froggy-game](https://user-images.githubusercontent.com/110051631/185796339-fb08da9b-43b5-4f5a-aa30-3937c6b26fb7.PNG)
+</details>
+
+<details>
+<summary>GRID відео</summary>
+
+![GRID](https://user-images.githubusercontent.com/110051631/185796341-e15250d3-614e-475c-b67e-5ae537bc56d9.PNG)
+</details>
+
+<details>
+<summary>Grid garden</summary>
+
+![Grid-garden](https://user-images.githubusercontent.com/110051631/185796335-41b4e788-0390-4a76-ba73-6a4fbf671145.PNG)
+</details>
+
+Абсолютно увесь матеріал був для мене новим. Досі, поки що, не розумію до кінця як працює flex, але обов'язково буду його використовувати, хоча б для того, щоб розібратися.
+
+Ігри для засвоювання матеріалу дійсно допомагають, тому що результат дій більш очевидний.
+
+Дуже хочу вже використати отримані знання на практиці!
+
 
