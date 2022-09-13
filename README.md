@@ -86,4 +86,16 @@
 [Demo](https://anthonyshostak.github.io/popup/)<br>
 [Code base](https://github.com/AnthonyShostak/popup/)
 
+## 6. JS Basics
 
+Поки що найскладніший розділ. Дуже важко зрозуміти деякі методи. Завдання на FCC вимагають постійного пошуку додаткових матеріалів, тому що дуже незрозуміло з їх прикладів як саме працює той чи інший метод.
+
+<details>
+<summary>Скріншоти</summary>
+<img src="task_js_basics/1.PNG">
+<img src="task_js_basics/2.PNG">
+<img src="task_js_basics/3.PNG">
+<img src="task_js_basics/4.PNG">
+<img src="task_js_basics/5.PNG">
+<img src="task_js_basics/6.PNG">
+</details>
